@@ -8,4 +8,4 @@ Requirements:
 - https://nodejs.org/
 - https://github.com/bitpay/bitcore-lib
 
--https://bitcoinmagazine.com/articles/yes-bitcoin-can-do-smart-contracts-and-particl-demonstrates-how/
+- https://bitcoinmagazine.com/articles/yes-bitcoin-can-do-smart-contracts-and-particl-demonstrates-how/
